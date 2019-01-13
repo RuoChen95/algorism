@@ -1,4 +1,4 @@
-#encoding=utf-8
+# -*- coding: utf-8 -*-
 
 a = [7, 6, 5, 4, 3, 2, 1]
 
@@ -17,6 +17,5 @@ for i in range(0, len(a)-1):
     print min_index
 
     a[min_index], a[i] = a[i], a[min_index]
-
 
 print a

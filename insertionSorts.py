@@ -1,4 +1,4 @@
-#encoding=utf-8
+# -*- coding: utf-8 -*-
 
 a = [7, 6, 5, 4, 3, 2, 1]
 
